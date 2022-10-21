@@ -1,0 +1,49 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/Repositories/dio-bootcamp-java-ifood/dio-bootcamp-java-ifood/project-parent/core/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Repositories/dio-bootcamp-java-ifood/dio-bootcamp-java-ifood/project-parent/core/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'core 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Repositories/dio-bootcamp-java-ifood/dio-bootcamp-java-ifood/project-parent/core/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'core 1.0-SNAPSHOT API'
+one.digital.innovation
+'C:/Repositories/dio-bootcamp-java-ifood/dio-bootcamp-java-ifood/project-parent/core/src/main/java/one/digital/innovation/App.java'
+C:\Repositories\dio-bootcamp-java-ifood\dio-bootcamp-java-ifood\project-parent\core\src\main\java = 1666203395695
+C:\Repositories\dio-bootcamp-java-ifood\dio-bootcamp-java-ifood\project-parent\core\target\site\apidocs\allclasses-index.html = 1666205140520
+C:\Repositories\dio-bootcamp-java-ifood\dio-bootcamp-java-ifood\project-parent\core\target\site\apidocs\allclasses.html = 1666205140562
+C:\Repositories\dio-bootcamp-java-ifood\dio-bootcamp-java-ifood\project-parent\core\target\site\apidocs\allpackages-index.html = 1666205140529
+C:\Repositories\dio-bootcamp-java-ifood\dio-bootcamp-java-ifood\project-parent\core\target\site\apidocs\constant-values.html = 1666205140369
+C:\Repositories\dio-bootcamp-java-ifood\dio-bootcamp-java-ifood\project-parent\core\target\site\apidocs\deprecated-list.html = 1666205140545
+C:\Repositories\dio-bootcamp-java-ifood\dio-bootcamp-java-ifood\project-parent\core\target\site\apidocs\element-list = 1666205140302
+C:\Repositories\dio-bootcamp-java-ifood\dio-bootcamp-java-ifood\project-parent\core\target\site\apidocs\help-doc.html = 1666205140589
+C:\Repositories\dio-bootcamp-java-ifood\dio-bootcamp-java-ifood\project-parent\core\target\site\apidocs\index-all.html = 1666205140505
+C:\Repositories\dio-bootcamp-java-ifood\dio-bootcamp-java-ifood\project-parent\core\target\site\apidocs\index.html = 1666205140570
+C:\Repositories\dio-bootcamp-java-ifood\dio-bootcamp-java-ifood\project-parent\core\target\site\apidocs\member-search-index.js = 1666205140497
+C:\Repositories\dio-bootcamp-java-ifood\dio-bootcamp-java-ifood\project-parent\core\target\site\apidocs\member-search-index.zip = 1666205140500
+C:\Repositories\dio-bootcamp-java-ifood\dio-bootcamp-java-ifood\project-parent\core\target\site\apidocs\overview-tree.html = 1666205140437
+C:\Repositories\dio-bootcamp-java-ifood\dio-bootcamp-java-ifood\project-parent\core\target\site\apidocs\package-search-index.js = 1666205140455
+C:\Repositories\dio-bootcamp-java-ifood\dio-bootcamp-java-ifood\project-parent\core\target\site\apidocs\package-search-index.zip = 1666205140487
+C:\Repositories\dio-bootcamp-java-ifood\dio-bootcamp-java-ifood\project-parent\core\target\site\apidocs\script.js = 1666205140606
+C:\Repositories\dio-bootcamp-java-ifood\dio-bootcamp-java-ifood\project-parent\core\target\site\apidocs\search.js = 1666205140615
+C:\Repositories\dio-bootcamp-java-ifood\dio-bootcamp-java-ifood\project-parent\core\target\site\apidocs\stylesheet.css = 1666205140600
+C:\Repositories\dio-bootcamp-java-ifood\dio-bootcamp-java-ifood\project-parent\core\target\site\apidocs\type-search-index.js = 1666205140490
+C:\Repositories\dio-bootcamp-java-ifood\dio-bootcamp-java-ifood\project-parent\core\target\site\apidocs\type-search-index.zip = 1666205140494
